@@ -1,11 +1,19 @@
 [
   
     {
+      "title"    : "Repaircafé Gorredijk start in het voorjaar van 2025",
+      "subtitle" : "",
+      "tags"     : "cafe",
+      "url"      : "/2025/02/20/opstart/",
+      "date"     : "2025-02-20 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Welkom bij het repair cafe in Gorredijk",
       "subtitle" : "",
       "tags"     : "cafe",
-      "url"      : "/2025/02/20/welkom/",
-      "date"     : "2025-02-20 00:00:00 +0100"
+      "url"      : "/2025/02/19/welkom/",
+      "date"     : "2025-02-19 00:00:00 +0100"
     } 
   
 ]
