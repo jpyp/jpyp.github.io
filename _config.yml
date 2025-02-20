@@ -74,8 +74,8 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: ""
-sidebar-avatar:  # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "Je vind ons in de bibliotheek in Gorredijk, Schansburg 1, 8401 RX, Gorredijk"
+sidebar-avatar:  "img/logo.jpg" # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: false # whether or not using Feature-Tags
