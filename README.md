@@ -1,2 +1,3 @@
-# jpyp.github.io
-repair cafe website
+# website van repair cafe gorredijk
+
+De website https://repaircafegorredijk.nl van het lokale rapair cafe
