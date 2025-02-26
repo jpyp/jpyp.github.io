@@ -1,7 +1,12 @@
 ---
 layout: page
-description: "Geef het een tweede leven"
+description: "Weggooien? Mooi niet!"
 ---
+<p>Wij zijn nu een enthousiaste groep van 6 vrijwilligers. En we zoeken extra vrijwilligers om het team compleet te maken, zodat alle spullen die we ter reparatie aangeboden krijgen ook kunnen repareren.</p>
+<p>Deze spullen kun je bij ons ter reparatie aanbieden: Stofzuigers, koffiemachines, tosti-apparaten, broodroosters, strijkijzers, lampen, laptops, printers, speelgoed, naaimachines en (tuin)gereedschappen. Mocht je iets missen breng het gerust mee, als we het kunnen repareren doen we dat graag. En voegen we het toe aan bovenstaand lijstje.</p>
+<p>Je bent welkom in ons Repaircafé in Gorredijk. Je vindt ons in de bibliotheek in Gorredijk, Schansburg 1, 8401 RX, Gorredijk.</p>
+<img src="img/banner-1.jpg" alt="Logo repair cafe" style="width:100%;">
+<h1>Berichten:</h1>
 
 {% for post in paginator.posts %}
 <div class="post-preview">
@@ -34,12 +39,12 @@ description: "Geef het een tweede leven"
 <ul class="pager">
     {% if paginator.previous_page %}
     <li class="previous">
-        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Nieuwere Berichten</a>
     </li>
     {% endif %}
     {% if paginator.next_page %}
     <li class="next">
-        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Oudere Berichten &rarr;</a>
     </li>
     {% endif %}
 </ul>
