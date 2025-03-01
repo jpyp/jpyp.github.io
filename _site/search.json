@@ -1,9 +1,17 @@
 [
   
     {
-      "title"    : "Repaircafé Gorredijk start in het voorjaar van 2025",
+      "title"    : "Repair café start 5 april",
       "subtitle" : "",
-      "tags"     : "repair-cafe",
+      "tags"     : "repair-cafe, agenda",
+      "url"      : "/2025/03/01/5april/",
+      "date"     : "2025-03-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Repair café Gorredijk start in het voorjaar van 2025",
+      "subtitle" : "",
+      "tags"     : "repair-cafe, agenda",
       "url"      : "/2025/02/20/start/",
       "date"     : "2025-02-20 00:00:00 +0100"
     } ,
