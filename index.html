@@ -34,7 +34,7 @@ description: "Weggooien? Mooi niet!"
         </div>
     </a>
     <p class="post-meta">
-        Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}
+        Geplaast door {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} op {{ post.date | date: "%-d %B,  %Y" }}
     </p>
 </div>
 <hr>
