@@ -5,9 +5,27 @@
     <description>Repair cafe in Gorredijk</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 24 Mar 2025 17:17:03 +0100</pubDate>
-    <lastBuildDate>Mon, 24 Mar 2025 17:17:03 +0100</lastBuildDate>
+    <pubDate>Sat, 12 Apr 2025 09:55:01 +0200</pubDate>
+    <lastBuildDate>Sat, 12 Apr 2025 09:55:01 +0200</lastBuildDate>
     <generator>Jekyll v4.4.1</generator>
+    
+      <item>
+        <title>Groot sa!</title>
+        <description>&lt;p&gt;Lees het artikel over het Repair café in Gorredijk in maandblad nummer 4 van groot sa!
+&lt;a href=&quot;https://www.grootsa.nl/reader/21150#p=24&quot;&gt;Link naar digitale versie&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/page.jpg&quot; alt=&quot;Artikel&quot; title=&quot;Artikel in groot sa!&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 10 Apr 2025 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/2025/04/10/grootsa/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025/04/10/grootsa/</guid>
+        
+        <category>repair-cafe</category>
+        
+        <category>pers</category>
+        
+        
+      </item>
     
       <item>
         <title>Persbericht 24-03-2025</title>
