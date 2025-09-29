@@ -5,9 +5,40 @@
     <description>Repair cafe in Gorredijk</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 29 Sep 2025 13:28:47 +0200</pubDate>
-    <lastBuildDate>Mon, 29 Sep 2025 13:28:47 +0200</lastBuildDate>
+    <pubDate>Mon, 29 Sep 2025 17:44:56 +0200</pubDate>
+    <lastBuildDate>Mon, 29 Sep 2025 17:44:56 +0200</lastBuildDate>
     <generator>Jekyll v4.4.1</generator>
+    
+      <item>
+        <title>Linux Repaircafe</title>
+        <description>&lt;h2 id=&quot;2--9-oktober-begint-het-linux-repaircafé&quot;&gt;2 &amp;amp; 9 oktober begint het Linux Repaircafé!&lt;/h2&gt;
+
+&lt;p&gt;Geef je oude laptop of computer een tweede kans.&lt;/p&gt;
+
+&lt;p&gt;Computers die nog prima functioneren, maar geen updates meer krijgen, hoeven niet de afvalberg op. In oktober start in Gorredijk het Linux Repaircafé, waar mensen hun laptop een tweede leven kunnen geven met behulp van het besturingssysteem Linux.&lt;/p&gt;
+
+&lt;p&gt;Microsoft stopt in oktober 2025 met de officiële ondersteuning van Windows 10, het besturingssysteem waarop de meeste computers wereldwijd draaien. Microsoft heeft net bekend gemaakt dat mensen in de EU een jaar langer ondersteuning krijgen, zolang je een Microsoft account linkt aan je Windowsinstallatie. Met alle privacy gevolgen van dien 
+Helaas zijn er miljoenen oudere computers die niet gechikt zijn voor een upgrade naar Windows 11. Zij dreigen tot e-waste te vervallen. Een goed moment om Linux uit te proberen dus.&lt;/p&gt;
+
+&lt;p&gt;Daarom organiseren wij in oktober het Linux Repaircafé, hier kunt u kennis maken met Linux op meerdere laptops. Als dit goed bevalt, kunnen wij indien gewenst direct Linux installeren op uw eigen laptop. Belangrijk is hierbij dat u van tevoren uw bestanden - zoals foto’s en andere belangrijke documenten - vooraf op een USB of externe schijf zet. Mocht u dit niet kunnen, kunnen wij u adviseren hoe u dit kunt doen. 
+Vanwege privacy-wetgeving kunnen wij dit helaas niet voor u doen. U hoeft uiteraard niet direct de grote sprong te wagen, u kunt ook gewoon langskomen om meer informatie te krijgen en op de testlaptops dingen uitproberen. Daarna bent u natuurlijk vrij om hier thuis nog eens rustig over nadenken.&lt;/p&gt;
+
+&lt;p&gt;We zien u graag 2 of 9 oktober tussen 13:30 en 15:30, en hopen u dan graag te verwelkomen bij het Linux Repaircafé in de bibliotheek van Gorredijk.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/linux_mint.jpg&quot; alt=&quot;Foto van de desktop van Linux Mint&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 29 Sep 2025 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/2025/09/29/linux/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025/09/29/linux/</guid>
+        
+        <category>repair-cafe</category>
+        
+        <category>pers</category>
+        
+        <category>linux</category>
+        
+        
+      </item>
     
       <item>
         <title>Groot sa!</title>
