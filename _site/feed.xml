@@ -5,9 +5,35 @@
     <description>Repair cafe in Gorredijk</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 22 Apr 2026 09:08:49 +0200</pubDate>
-    <lastBuildDate>Wed, 22 Apr 2026 09:08:49 +0200</lastBuildDate>
+    <pubDate>Wed, 20 May 2026 10:29:01 +0200</pubDate>
+    <lastBuildDate>Wed, 20 May 2026 10:29:01 +0200</lastBuildDate>
     <generator>Jekyll v4.4.1</generator>
+    
+      <item>
+        <title>eerste jaar van het Repaircafé </title>
+        <description>&lt;p&gt;Theresia Tel, coördinator van de Maatschappelijke Bibliotheek, kijkt met enthousiasme terug op het eerste jaar van het Repaircafé in de bibliotheek van Gorredijk. 
+“Wat mij vooral raakt, is hoe dit initiatief meerdere doelen tegelijk dient,” vertelt ze. “Het gaat natuurlijk om duurzaamheid: spullen krijgen een tweede leven in plaats van dat ze worden weggegooid. Maar minstens zo belangrijk is de sociale functie.”&lt;/p&gt;
+
+&lt;p&gt;Volgens Theresia biedt het Repaircafé een waardevolle ondersteuning voor mensen met een kleine portemonnee. 
+“Niet iedereen kan het zich veroorloven om kapotte apparaten of kleding zomaar te vervangen. Hier krijgen mensen de kans om hun spullen te laten repareren, vaak gratis of tegen een kleine bijdrage. Dat maakt echt een verschil.”&lt;/p&gt;
+
+&lt;p&gt;Daarnaast benadrukt ze de verbindende rol van het initiatief. “De bibliotheek is allang niet meer alleen een plek om boeken te lenen. 
+Het is een ontmoetingsplek geworden, en het Repaircafé past daar perfect bij. 
+Mensen komen binnen met een kapot apparaat, maar gaan vaak naar huis met een goed gesprek en nieuwe contacten. 
+Vrijwilligers delen hun kennis, bezoekers leren van elkaar; dat is precies wat we willen stimuleren als maatschappelijke bibliotheek.”&lt;/p&gt;
+
+&lt;p&gt;De bibliotheek ziet dan ook een mooie toekomst voor het Repaircafé. “Het brengt duurzaamheid, sociale betrokkenheid en praktische hulp samen op één plek. Dat is de kracht van dit soort initiatieven.”&lt;/p&gt;
+</description>
+        <pubDate>Wed, 20 May 2026 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/2026/05/20/1-jaar/</link>
+        <guid isPermaLink="true">http://localhost:4000/2026/05/20/1-jaar/</guid>
+        
+        <category>repair-cafe</category>
+        
+        <category>pers</category>
+        
+        
+      </item>
     
       <item>
         <title>Linux Repaircafe</title>
