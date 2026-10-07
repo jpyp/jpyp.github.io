@@ -18,14 +18,14 @@ In oktober is ActiefGorredijkTV bij ons langsgeweest.
 Het item over het Repair Cafe is vanaf 13:26 te bekijken.
 
 <iframe width="420" height="315"
-src="https://youtu.be/h9eiOKxUew0?si=N2h3fZYvnt85xPb4">
+src="https://www.youtube.com/embed/h9eiOKxUew0">
 </iframe>
 
 Ook is GrootFryslân wezen kijken in augustus, onderstaand kunt u dit item bekijken.
 
 
 <iframe width="420" height="315"
-src="https://youtu.be/5WB8N4QLjiQ?si=UioDo8uqqgEI4-JL">
+src="https://www.youtube.com/embed/5WB8N4QLjiQ">
 </iframe>
 
 
