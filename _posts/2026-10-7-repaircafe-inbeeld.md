@@ -3,6 +3,7 @@ layout:       post
 title:        "Het repair cafe in Gorredijk in beeld"
 author:       "jp"
 header-style: text
+header-img: "img/IMG_2271.jpg"
 catalog:      true
 tags:
     - cafe
